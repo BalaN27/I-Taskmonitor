@@ -1,6 +1,6 @@
 # I-Taskmonitor
-Currently only for Windows
-Made with Imgui in C++.
+Currently only for Windows (10 should work on other windows too)
+Made with Imgui in C++ with Gcc compiler.
 This is a Basic Task monitor, but unlike a sitting duck of standard taskmonitor partial towards the windows process. 
 This will show you clear view and control atleast thats the aim.
 
@@ -19,6 +19,8 @@ ram size, Disk storage, GPU and VRAM)
 4. Fine tune displaying usage metrics
    
 Future Features:
+Add logo and good font it lookgood
+Correctily name it.
 Add - Add/Remove programs Tab
 Add - Startup program tab
 Add - Services tab
