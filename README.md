@@ -1,4 +1,4 @@
-# I-Taskmonitor
+# Open-Task-Manager
 Currently only for Windows (10 should work on other windows too)
 Made with Imgui in C++ with Gcc compiler.
 This is a Basic Task monitor, but unlike a sitting duck of standard taskmonitor partial towards the windows process. 
